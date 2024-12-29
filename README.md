@@ -1,4 +1,6 @@
-# CalculatorApp
+# CalculatorApp (ARCHIVED)
+
+**NOTE:** This project has been archived due to issues with the binary
 
 Touch/Click calculator app. Haven't implemented keyboard inputs yet
 
